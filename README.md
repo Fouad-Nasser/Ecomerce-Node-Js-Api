@@ -44,12 +44,12 @@ npm run start-dev to run project with nodemon
 
 ## Documentation
 ### Endpoints
-Products
-Get: https://lazy-jade-goat-wear.cyclic.app/products (get all products)
-Get: https://lazy-jade-goat-wear.cyclic.app/products/:id (get one product)
-Post: https://lazy-jade-goat-wear.cyclic.app/products (create product only admin can create product)
-Put: https://lazy-jade-goat-wear.cyclic.app/products/:id (update product only admin can update product)
-delete: https://lazy-jade-goat-wear.cyclic.app/products/:id (delete product only admin can delete product)
+#### Products
+##### Get: https://lazy-jade-goat-wear.cyclic.app/products (get all products)
+##### Get: https://lazy-jade-goat-wear.cyclic.app/products/:id (get one product)
+##### Post: https://lazy-jade-goat-wear.cyclic.app/products (create product only admin can create product)
+##### Put: https://lazy-jade-goat-wear.cyclic.app/products/:id (update product only admin can update product)
+##### delete: https://lazy-jade-goat-wear.cyclic.app/products/:id (delete product only admin can delete product)
 
 categories
 Get: https://lazy-jade-goat-wear.cyclic.app/categories (get all categories)
