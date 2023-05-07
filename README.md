@@ -44,20 +44,6 @@ npm run start-dev to run project with nodemon
 
 ## Documentation
 ### Endpoints
-#### Users
-##### get: https://lazy-jade-goat-wear.cyclic.app/users/user_data
-##### Post: https://lazy-jade-goat-wear.cyclic.app/users/register
-##### Post: https://lazy-jade-goat-wear.cyclic.app/users/verify_email
-##### Post: https://lazy-jade-goat-wear.cyclic.app/users/login
-##### Post: https://lazy-jade-goat-wear.cyclic.app/users/forgot_password
-##### Post: https://lazy-jade-goat-wear.cyclic.app/users/verify_reset_code
-##### Post: https://lazy-jade-goat-wear.cyclic.app/users/reset_password
-##### Put: https://lazy-jade-goat-wear.cyclic.app/users/update_profile
-##### Put: https://lazy-jade-goat-wear.cyclic.app/users/change_password
-##### delete: https://lazy-jade-goat-wear.cyclic.app/users/deactivate_user
-
-
-
 #### Products
 ##### Get: https://lazy-jade-goat-wear.cyclic.app/products (get all products)
 ##### Get: https://lazy-jade-goat-wear.cyclic.app/products/:id (get one product)
@@ -78,6 +64,18 @@ npm run start-dev to run project with nodemon
 ##### Post: https://lazy-jade-goat-wear.cyclic.app/subCategories (create subCategory only admin can create subCategory)
 ##### Put: https://lazy-jade-goat-wear.cyclic.app/subCategories/:id (update subCategory only admin can update subCategory)
 ##### delete: https://lazy-jade-goat-wear.cyclic.app/subCategories/:id (delete subCategory only admin can delete subCategory)
+
+#### Users
+##### get: https://lazy-jade-goat-wear.cyclic.app/users/user_data
+##### Post: https://lazy-jade-goat-wear.cyclic.app/users/register
+##### Post: https://lazy-jade-goat-wear.cyclic.app/users/verify_email
+##### Post: https://lazy-jade-goat-wear.cyclic.app/users/login
+##### Post: https://lazy-jade-goat-wear.cyclic.app/users/forgot_password
+##### Post: https://lazy-jade-goat-wear.cyclic.app/users/verify_reset_code
+##### Post: https://lazy-jade-goat-wear.cyclic.app/users/reset_password
+##### Put: https://lazy-jade-goat-wear.cyclic.app/users/update_profile
+##### Put: https://lazy-jade-goat-wear.cyclic.app/users/change_password
+##### delete: https://lazy-jade-goat-wear.cyclic.app/users/deactivate_user
 
 #### reviews
 ##### Get: https://lazy-jade-goat-wear.cyclic.app/reviews (get all reviews)
